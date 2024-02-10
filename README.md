@@ -8,3 +8,28 @@ But here's the kicker: our system isn't just any run-of-the-mill negotiator. No,
 Join us on this transformative journey where technology meets commerce, and where every negotiation is an opportunity to redefine the art of the deal.
 </p>
 <h2>Prototype </p>
+
+ <table>
+        <thead>
+            <tr>
+                <th>     </th>
+                <th>Test Case ID</th>
+                <th>Description</th>
+                <th>Preconditions</th>
+                <th>Inputs</th>
+                <th>Expected Results</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Adding New Products</td>
+                <td>NE_SE_TC_001</td>
+                <td>: Verify that sellers can add new products with images, descriptions, and pricing.
+                </td>
+                <td>Seller is logged in and accessing the dashboard.</td>
+                <td>Enter product details including images, descriptions, and prices.
+                </td>
+                <td>The new product is successfully added to the seller's inventory</td>
+            </tr>
+        </tbody>
+    </table>
