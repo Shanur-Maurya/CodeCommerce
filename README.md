@@ -70,3 +70,79 @@ Join us on this transformative journey where technology meets commerce, and wher
             </tr>
         </tbody>
     </table>
+<h2>Buyer Functionality Test Cases
+</h2>
+ <table>
+        <thead>
+            <tr>
+                <th>     </th>
+                <th>Test Case ID</th>
+                <th>Description</th>
+                <th>Preconditions</th>
+                <th>Inputs</th>
+                <th>Expected Results</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Browsing and Searching for Products:</td>
+                <td>NE_SE_TC_001</td>
+                <td>Ensure that buyers can browse and search for products.
+                </td>
+                <td> Buyer is logged in and directed to the main page.</td>
+                <td>Browse product categories or use the search feature to find specific products.
+                </td>
+                <td>Buyers can view a list of relevant products based on their search criteria.</td>
+            </tr>
+              <tr>
+                <td>Viewing Product Details:
+                </td>
+                <td>NE_SE_TC_002</td>
+                <td>Verify that buyers can view product details such as images, descriptions, and prices
+                </td>
+                <td>Buyer is logged in and viewing a product listing..</td>
+                <td>Click on a product to view its details
+                </td>
+                <td>Product details including images, descriptions, and prices are displayed accurately.
+                </td>
+            </tr>
+             <tr>
+                <td>Adding Products to Cart:
+                </td>
+                <td>NE_SE_TC_003</td>
+                <td>Ensure that buyers can add products to their cart for purchase.
+                </td>
+                <td>Buyer is logged in and viewing a product listing.</td>
+                <td>Click on the "Add to Cart" button for selected products.
+                </td>
+                <td>Selected products are added to the buyer's cart for purchase.    
+                </td>
+            </tr>
+                <tr>
+                <td>Initiating Negotiation:
+                </td>
+                <td>NE_SE_TC_004</td>
+                <td>Verify that buyers can initiate negotiations by clicking the "Make an Offer" button.
+                </td>
+                <td>Buyer is logged in and viewing a product listing.
+                </td>
+                <td>Click on the "Make an Offer" button and enter offer details.
+                </td>
+                <td>The negotiation process is initiated, and the buyer's offer is submitted for evaluation.
+                </td>
+            </tr>
+                <tr>
+                <td>Handling Negotiation Responses:
+                </td>
+                <td>NE_SE_TC_005</td>
+                <td>Ensure that buyers can handle negotiation responses effectively.
+                </td>
+                <td>Buyer has submitted an offer for negotiation.
+                </td>
+                <td>Review negotiation response and select appropriate action (proceed with original price, renegotiate, or cancel order).
+                </td>
+                <td>Buyer's actions are processed accurately based on negotiation response and chosen options.
+                </td>
+            </tr>
+        </tbody>
+    </table>
