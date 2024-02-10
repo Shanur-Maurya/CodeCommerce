@@ -23,7 +23,7 @@ Join us on this transformative journey where technology meets commerce, and wher
         </thead>
         <tbody>
             <tr>
-                <td>Adding New Products</td>
+                <td>Adding New Products:</td>
                 <td>NE_SE_TC_001</td>
                 <td>Verify that sellers can add new products with images, descriptions, and pricing.
                 </td>
