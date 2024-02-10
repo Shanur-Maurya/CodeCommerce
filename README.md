@@ -7,7 +7,7 @@ But here's the kicker: our system isn't just any run-of-the-mill negotiator. No,
 
 Join us on this transformative journey where technology meets commerce, and where every negotiation is an opportunity to redefine the art of the deal.
 </p>
-<h2>Prototype </p>
+
 <h2>Seller Functionality Test Cases
 </h2>
  <table>
@@ -150,6 +150,7 @@ Join us on this transformative journey where technology meets commerce, and wher
 <pre>
 Our negotiation engine project is currently operational.
 All fundamental features and algorithms have been successfully implemented and integrated.
+
 </pre>
 <h2>
 Continuous Improvement
