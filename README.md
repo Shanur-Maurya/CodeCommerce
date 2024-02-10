@@ -7,3 +7,4 @@ But here's the kicker: our system isn't just any run-of-the-mill negotiator. No,
 
 Join us on this transformative journey where technology meets commerce, and where every negotiation is an opportunity to redefine the art of the deal.
 </p>
+<h2>Prototype </p>
