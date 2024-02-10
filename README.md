@@ -165,9 +165,17 @@ Key achievements for a negotiation engine project could include:
 </h2>
 <p>
 Successful Implementation: Achieving the successful development and deployment of the negotiation engine software.
+</p>
+<p>
 High Performance: Ensuring the negotiation engine operates efficiently, with minimal latency and downtime.
+</p>
+<p>
 Scalability: Designing the negotiation engine to scale seamlessly as user demand grows, without compromising performance.
+</p>
+<p>
 Compliance and Security: Ensuring that the negotiation engine adheres to relevant industry standards and regulations regarding data privacy and security.
+</p>
+<p>
 Innovative Features: Introducing innovative features that differentiate the negotiation engine from competitors and provide added value to users.
 </p>
 <h2>conclusion</h2>
