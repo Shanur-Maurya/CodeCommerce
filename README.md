@@ -163,14 +163,14 @@ Continuous Improvement
 <h2>
 Key achievements for a negotiation engine project could include:
 </h2>
-<pre>
+<p>
 Successful Implementation: Achieving the successful development and deployment of the negotiation engine software.
 High Performance: Ensuring the negotiation engine operates efficiently, with minimal latency and downtime.
 Scalability: Designing the negotiation engine to scale seamlessly as user demand grows, without compromising performance.
 Compliance and Security: Ensuring that the negotiation engine adheres to relevant industry standards and regulations regarding data privacy and security.
 Innovative Features: Introducing innovative features that differentiate the negotiation engine from competitors and provide added value to users.
-</pre>
+</p>
 <h2>conclusion</h2>
-<pre>
+<p>
 our negotiation engine project embodies innovation and collaboration, delivering a seamless platform for buyers and sellers. With successful implementation and user-centric design, we've empowered efficient negotiations. As we move forward, our commitment to continuous enhancement remains unwavering, driving towards even greater impact. We extend heartfelt gratitude to all contributors and stakeholders for their invaluable support. Together, we've laid the foundation for transformative transactions and exciting future endeavors.
-</pre>
+</p>
