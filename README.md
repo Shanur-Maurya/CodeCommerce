@@ -150,7 +150,6 @@ Join us on this transformative journey where technology meets commerce, and wher
 <pre>
 Our negotiation engine project is currently operational.
 All fundamental features and algorithms have been successfully implemented and integrated.
-The engine is capable of handling various negotiation scenarios and delivering optimal outcomes.
 </pre>
 <h2>
 Continuous Improvement
