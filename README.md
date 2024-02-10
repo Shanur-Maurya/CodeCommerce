@@ -31,5 +31,29 @@ Join us on this transformative journey where technology meets commerce, and wher
                 </td>
                 <td>The new product is successfully added to the seller's inventory</td>
             </tr>
+              <tr>
+                <td>Editing Existing Product Listings:
+                </td>
+                <td>NE_SE_TC_002</td>
+                <td>Ensure that sellers can edit existing product listings
+                </td>
+                <td>Seller is logged in and accessing the dashboard.</td>
+                <td> Modify product details such as descriptions, images, and prices
+                </td>
+                <td>The changes to the product listing are saved and reflected accurately.
+                </td>
+            </tr>
+             <tr>
+                <td>Deleting Product Listings:
+                </td>
+                <td>NE_SE_TC_003</td>
+                <td>Verify that sellers can delete existing product listings.
+                </td>
+                <td>Seller is logged in and accessing the dashboard.</td>
+                <td>Select the product listing to be deleted and confirm deletion.
+                </td>
+                <td>The selected product listing is removed from the seller's inventory.
+                </td>
+            </tr>
         </tbody>
     </table>
