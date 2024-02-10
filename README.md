@@ -55,5 +55,17 @@ Join us on this transformative journey where technology meets commerce, and wher
                 <td>The selected product listing is removed from the seller's inventory.
                 </td>
             </tr>
+                <tr>
+                <td>Setting Minimum Prices for Negotiation:
+                </td>
+                <td>NE_SE_TC_004</td>
+                <td>Ensure that sellers can set minimum prices for negotiation.
+                </td>
+                <td>Seller is logged in and accessing the dashboard.</td>
+                <td>Specify minimum negotiation prices for selected products.
+                </td>
+                <td>Minimum negotiation prices are successfully set and enforced during negotiations.
+                </td>
+            </tr>
         </tbody>
     </table>
