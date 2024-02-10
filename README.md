@@ -180,5 +180,5 @@ Innovative Features: Introducing innovative features that differentiate the nego
 </p>
 <h2>conclusion</h2>
 <p>
-our negotiation engine project embodies innovation and collaboration, delivering a seamless platform for buyers and sellers. With successful implementation and user-centric design, we've empowered efficient negotiations. As we move forward, our commitment to continuous enhancement remains unwavering, driving towards even greater impact. We extend heartfelt gratitude to all contributors and stakeholders for their invaluable support. Together, we've laid the foundation for transformative transactions and exciting future endeavors.
+Our negotiation engine project embodies innovation and collaboration, delivering a seamless platform for buyers and sellers. With successful implementation and user-centric design, we've empowered efficient negotiations. As we move forward, our commitment to continuous enhancement remains unwavering, driving towards even greater impact. We extend heartfelt gratitude to all contributors and stakeholders for their invaluable support. Together, we've laid the foundation for transformative transactions and exciting future endeavors.
 </p>
