@@ -123,12 +123,14 @@
 
         function makeAnOffer() {
             var pid = document.getElementById('pid').value;
+            var customernegotiateprice = document.getElementById('customernegotiateprice').value;
             $.ajax({
                 url: 'makeanoffer.php',
                 method: 'POST',
                 dataType: 'json',
                 data: {
-                    pid: pid
+                    pid: pid,
+                    customernegotiateprice : customernegotiateprice
                 },
                 success: function (response) {
                     // Refresh the negotiation data after making an offer
